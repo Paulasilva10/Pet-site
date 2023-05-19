@@ -6,5 +6,7 @@
     <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     
 <br>    
-<img src="/we care.png">
+<img src="/MacBook Pro 16.png">
 <br>
+<img src="/we care.png">
+
